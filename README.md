@@ -1,5 +1,9 @@
 ![a](https://github.com/user-attachments/assets/9a4aeb96-c7b3-44ff-a04b-62f8f2917686)
+Home page/ Landing Page
+
 ![b](https://github.com/user-attachments/assets/f093a7fe-b0d4-4703-a7bb-8cea767baf16)
+Search bar
+
 ![c](https://github.com/user-attachments/assets/b7b45231-47ea-42ce-bdd3-d98cf09b7fc7)
 ![d](https://github.com/user-attachments/assets/0a03ac46-81e4-4394-9ae1-a25f3f5db1ba)
 ![e](https://github.com/user-attachments/assets/900ce2f8-e850-41ab-9c1f-263a502c1e15)
